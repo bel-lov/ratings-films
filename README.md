@@ -40,3 +40,7 @@ return (
 Необходимо реализовать компонет `Stars`. Не забудьте, что отдельная звезда должна быть представлена компонентом `Star`.
 
 Важно: вам нужно реализовать только отображение звёздочек, карточку фильма не нужно.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/g6bb55s7392bpre0?svg=true)](https://ci.appveyor.com/project/bel-lov/ratings-films)
+
+## https://bel-lov.github.io/ratings-films/
